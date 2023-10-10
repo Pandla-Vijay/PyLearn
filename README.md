@@ -32,4 +32,3 @@ Feel free to fork this repository, suggest improvements, or even contribute your
 
 Let's embark on this Python Learning Journey together and unlock the boundless possibilities that this versatile programming language has to offer. Happy coding!
 
-— P.B.Vijay Kumar
